@@ -1,5 +1,6 @@
 <?php
 
-	echo "Olá Mundo!"
+	echo "Hello World!";
+	echo "Olá Udemy!";
 
 ?>
